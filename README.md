@@ -1,5 +1,7 @@
 # Salaries-Dashboard
 
+![Dashboard Preview](dashboard.png)
+
 A Power BI dashboard for analyzing and visualizing salary data trends and insights. This project provides an interactive and user-friendly interface to explore salary distributions, trends, and key metrics.
 
 ## Features
